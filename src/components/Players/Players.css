@@ -1,0 +1,16 @@
+.players-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+    border-right: 1px solid gray;
+}
+.main-container {
+    display: flex;
+}
+.team-container {
+    margin: 0 20px;
+}
+.team-title{
+    border-bottom: 3px solid gray;
+    text-align: center;
+}

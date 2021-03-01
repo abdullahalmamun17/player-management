@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Thibaut Courtois",
+        "country": "Belgium",
+        "dob": "11/05/1992",
+        "position": "Goalkeeper",
+        "club": "Real Madrid",
+        "img": "https://www.realmadrid.com/img/vertical_380px/courtois_380x501_20201203095853.jpg",
+        "salary": 50000
+    },
+    {
+        "id": 2,
+        "name": "Daniel Carvajal Ramos",
+        "country": "Spain",
+        "dob": "11/01/1992",
+        "position": "Defender",
+        "club": "Real Madrid",
+        "img": "https://www.realmadrid.com/img/vertical_380px/carvajal_380x501_20201203095829.jpg",
+        "salary": 60000
+    },
+    {
+        "id": 4,
+        "name": "Sergio Ramos García",
+        "country": "Spain",
+        "dob": "30/03/1986",
+        "position": "Defender",
+        "club": "Real Madrid",
+        "img": "https://www.realmadrid.com/img/vertical_380px/ramos_380x501_20201203095830.jpg",
+        "salary": 70000
+    },
+    {
+        "id": 5,
+        "name": "Raphaël Varane",
+        "country": "France",
+        "dob": "25/04/1993",
+        "position": "Defender",
+        "club": "Real Madrid",
+        "img": "https://www.realmadrid.com/img/vertical_380px/varane_380x501_20201203095831.jpg",
+        "salary": 80000
+    },
+    {
+        "id": 6,
+        "name": "José I. Fernández Iglesias",
+        "country": "Spain",
+        "dob": "18/01/1990",
+        "position": "Defender",
+        "club": "Real Madrid",
+        "img": "https://www.realmadrid.com/img/vertical_380px/nacho_380x501_20201203095831.jpg",
+        "salary": 90000
+    },
+    {
+        "id": 12,
+        "name": "Marcelo Vieira da Silva",
+        "country": "Brazil",
+        "dob": "12/05/1988",
+        "position": "Defender",
+        "club": "Real Madrid",
+        "img": "https://www.realmadrid.com/img/vertical_380px/marcelo_380x501_20201203095832.jpg",
+        "salary": 90000
+    },
+    {
+        "id": 25,
+        "name": "Rodrygo Goes",
+        "country": "Brasil",
+        "dob": "09/01/2001",
+        "position": "Forward",
+        "club": "Real Madrid",
+        "img": "https://www.realmadrid.com/img/vertical_380px/rodrygo_380x501_20201203095856.jpg",
+        "salary": 40000
+    },
+    {
+        "id": 8,
+        "name": "Toni Kroos",
+        "country": "Germany",
+        "dob": "04/01/1990",
+        "position": "Midfielder",
+        "club": "Real Madrid",
+        "img": "https://www.realmadrid.com/img/vertical_380px/kroos_380x501_20201203095832.jpg",
+        "salary": 200000
+    },
+    {
+        "id": 10,
+        "name": "Luka Modric",
+        "country": "Croatia",
+        "dob": "09/09/1985",
+        "position": "Midfielder",
+        "club": "Real Madrid",
+        "img": "https://www.realmadrid.com/img/vertical_380px/modric_380x501_20201203095835.jpg",
+        "salary": 250000
+    },
+    {
+        "id": 23,
+        "name": "Ferland Mendy",
+        "country": "France",
+        "dob": "08/06/1995",
+        "position": "Defender",
+        "club": "Real Madrid",
+        "img": "https://www.realmadrid.com/img/vertical_380px/mendy_380x501_20201203095856.jpg",
+        "salary": 50000
+    },
+    {
+        "id": 14,
+        "name": "Carlos Henrique Casimiro",
+        "country": "Brazil",
+        "dob": "23/02/1992",
+        "position": "Midfielder",
+        "club":"Real Madrid",
+        "img": "https://www.realmadrid.com/img/vertical_380px/casemiro_380x501_20201203095834.jpg",
+        "salary": 90000
+    },
+    {
+        "id": 15,
+        "name": "Federico Santiago Valverde Dipetta",
+        "country": "Uruguay",
+        "dob": "22/07/1998",
+        "position": "Midfielder",
+        "club":"Real Madrid",
+        "img": "https://www.realmadrid.com/img/vertical_380px/valverde_380x501_20201203095828.jpg",
+        "salary": 50000
+    },
+    {
+        "id": 22,
+        "name": "Francisco Román  Alarcón",
+        "country": "Spain",
+        "dob": "21/04/1992",
+        "position": "Midfielder",
+        "club":"Real Madrid",
+        "img": "https://www.realmadrid.com/img/vertical_380px/isco_380x501_20201203095835.jpg",
+        "salary": 120000
+    },
+    {
+        "id": 9,
+        "name": "Karim Benzema",
+        "country": "France",
+        "dob": "19/12/1987",
+        "position": "Forward",
+        "club":"Real Madrid",
+        "img": "https://www.realmadrid.com/img/vertical_380px/benzema_380x501_20201203095836.jpg",
+        "salary": 150000
+    },
+    {
+        "id": 11,
+        "name": "Marco Asensio Willemsen",
+        "country": "Spain",
+        "dob": "21/01/1996",
+        "position": "Forward",
+        "club":"Real Madrid",
+        "img": "https://www.realmadrid.com/img/vertical_380px/asensio_380x501_20201203095827.jpg",
+        "salary": 80000
+    },
+    {
+        "id": 7,
+        "name": "Eden Hazard",
+        "country": "Belgium",
+        "dob": "07/01/1991",
+        "position": "Forward",
+        "club":"Real Madrid",
+        "img": "https://www.realmadrid.com/img/vertical_380px/hazard_380x501_20201203095855.jpg",
+        "salary": 100000
+    },
+    {
+        "id": 13,
+        "name": "Andriy Lunin",
+        "country": "Ukraine",
+        "dob": "11/02/1999",
+        "position": "Goalkeeper",
+        "club":"Real Madrid",
+        "img": "https://www.realmadrid.com/img/vertical_380px/lunin_380x501_20201203095858.jpg",
+        "salary": 40000
+    },
+    {
+        "id": 13,
+        "name": "Éder Gabriel Militão",
+        "country": "Brazil",
+        "dob": "18/01/1998",
+        "position": "Defender",
+        "club":"Real Madrid",
+        "img": "https://www.realmadrid.com/img/vertical_380px/militao_380x501_20201203095858.jpg",
+        "salary": 30000
+    }
+]

@@ -1,0 +1,17 @@
+.player {
+    display: flex;
+    border: 1px solid palevioletred;
+    width: 450px;
+    margin:  20px auto;
+}
+.player-image img{
+    height: 250px;
+}
+.player-info {
+    margin: 0 20px;
+}
+.add-button {
+    margin-bottom: 10px;
+    color: white;
+    cursor: pointer;
+}
